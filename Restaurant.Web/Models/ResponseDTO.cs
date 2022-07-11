@@ -1,4 +1,4 @@
-﻿namespace Restaurant.Services.ProductAPI.Models.DTO
+﻿namespace Restaurant.Web.Models
 {
     public class ResponseDTO
     {
